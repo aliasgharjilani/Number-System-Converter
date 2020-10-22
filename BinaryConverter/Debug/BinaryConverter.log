@@ -1,0 +1,3 @@
+﻿  BinaryConverter.cpp
+C:\Users\alias\source\repos\BinaryConverter\BinaryConverter\BinaryConverter.cpp(263): warning C4715: 'DecimalToHexadecimal': not all control paths return a value
+  BinaryConverter.vcxproj -> C:\Users\alias\source\repos\BinaryConverter\Debug\BinaryConverter.exe
